@@ -8,6 +8,10 @@
 	display:inline;
 }
 
+section.post-meta {
+	margin-bottom: 2rem;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
