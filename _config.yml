@@ -3,7 +3,7 @@ description: Writing about stuffs
 meta_description: "I write about things I'm interested in - if I find the time"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: Rouge
 logo: false
 paginate: 15
 baseurl: /
