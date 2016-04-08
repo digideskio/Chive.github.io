@@ -119,7 +119,7 @@ After you've pushed your test commit to GitHub it should be verified and look so
 
 ![Verification](/assets/images/gpg-github-verification.png)
 
-If you want to read more about GPG and signing, here's a few links I'd reccommend:
+If you want to read more about GPG and signing, here's a few links I'd recommend:
 
 * [GitHub's blog post on GPG signature verification][github-gpg]
 * [Git's guide on signing][git-signing]
