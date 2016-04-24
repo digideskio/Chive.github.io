@@ -8,57 +8,66 @@ https://keybase.io/chive
 
 I hereby claim:
 
-  * I am an admin of http://chive.ch
+  * I am an admin of https://chive.ch
   * I am chive (https://keybase.io/chive) on keybase.
   * I have a public key with fingerprint EDA1 D330 71FA 4863 C548  9D3A ED00 F37F D02A 51AB
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
+            "eldest_kid": "01018cdc99495d283dc8e22a4b65906d2bf6b7753d9c421536bf3f04d81c5af20cbd0a",
             "fingerprint": "eda1d33071fa4863c5489d3aed00f37fd02a51ab",
             "host": "keybase.io",
             "key_id": "ed00f37fd02a51ab",
+            "kid": "01018cdc99495d283dc8e22a4b65906d2bf6b7753d9c421536bf3f04d81c5af20cbd0a",
             "uid": "d50bdace51701821d82ab3f878089f00",
             "username": "chive"
         },
+        "revoke": {
+            "sig_ids": [
+                "7008e17f010c8dc0a9e532d14d0bbf9fcad6d8174b4a059f31198feda5d240200f"
+            ]
+        },
         "service": {
             "hostname": "chive.ch",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1401868316,
+    "ctime": 1461507598,
     "expire_in": 157680000,
-    "prev": "2e5961566fb3253bc19414df8d660e47bc372d03d792109b80d4bed7f34a65bc",
-    "seqno": 3,
+    "prev": "0120d4d8215f21bf58946c6362c506901f18fd5ff9c7ee99afe090a89199ad3e",
+    "seqno": 12,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v0.1.20
+Version: Keybase OpenPGP v2.0.53
 Comment: https://keybase.io/crypto
 
-yMHnAnicZZF/SBRpGMd3TxMTREEwkYQYu1Nsz5uZd37tEhSCf4Rgh1bksbK9M+87
-7mTOrDvjntv2S66yOpWS0It+mNYfabKQ9APEyjxRTIuCoCzCTu0fj7QgMlPRd5aC
-oPlneL/P5/t9nodnMDnOkeQsg7sKPJmq4hztn6lxlDY9WR+hZAOFKU+EqsSxn6rp
-FTgYCGq6RXkojCCDAKBFRoWcJACF5yQ3AhAjmlaBqCKahTwDZcpF+Q3TdpAYGZo4
-XzOIRh4+DcVyfuBrYgXE0zKCCuYZkWYklkESC2WgSqJES26Vpm3QxEEdVmFCK34t
-hKmDLopIIU0hUiTW9/tyvuInpkDQsAzF2EdUv2UFPLbJCgds6k8s+776fbKmI7Iw
-MYRw0NQMnfIwhFQszQ5kODKTIAFGcFG4NqAFsU+zCV4UJJp8dhscIpEs5t0CwwuC
-KgOWB7LCuDmGQ6qEBIHGnCgrQGQRDZDoZhnaLUs04mSMRBVwUOBlhfQ3cbVuUB5A
-xoQVJNLUKnRo1QTJugP93niHM8mRsOYn+2SOpLWp3w7p3p3o+OtNNOcXquRoZ551
-5eF4OLc9O/o0YxP8cso1h2aXSrMaTuYWWitjwqFPkbji3+XtRX/0TKeD3B2nVbNl
-54at1/if50vbjjRObvNLDxyfu/XzRWne/Z3hnP/qp99mRZbTXHdHJztmL2ac7TJT
-Lo3VDZ14fOZlUccU+K3BnDh3WFyu+v/GFKjPu/dxz0zb3OaEzIx/ilfK0yujffO9
-6jrnwmLydaFdTQMDhe+blfEy9sOz9rotrf8+v92S+cr59/Gu+NoL/YPZTUxCY3PK
-WM+I94U1nHf5anXK69aRkt7iIa91y5qwogs3yxP33hluPdDWtzT4aPFXOrXgGLoP
-o90b360C5VoR4g==
-=DjKf
+yMJoAnicrZJbaBVHGMdPYowYmiiKimm87YP1IQkzOzu7M0c02noBFSN9UKsmh7km
+a5KzJ2f3nJgmaR9EVBDBO4goiJKCGoomgtR7lChB+2BbBCmmhZaqRIXUlmLRzh4q
++NDH7svsDP/v9/2//8yt8nGJsqLP2PqPk5VaFA3fGM0lNlT9UNFl8UB2Wskuq0UV
+FtUqVRilWnxpJS0AASRCCkodiqVNkBRE2TZzuIspcKXNtcs9DyNJhWNDjFyukQaO
+JFBgpm0guATMqra0n25S2UzWT0cGqySDEiHgQc0c4iKBHUIlYkoCoJGnJbAZhoyb
+wuYgjCuMOc5CVesH5sxsUgV7/6H/n33nCjiJAZdMKAw9w7WhJDbjSBOPAEI1ALEw
+VNk0a1NGLZr9vLJ6qq2sygctKg419JuM49BKbrY8AIiCnjYWBZECMKowsiV0JOBc
+Uy2YdI0Nz+EOA5hqBCEl2iRm5nCAbQa2GgzbtMv7ogCPI3q/da1oNoYy2SAKRNBq
+TpujKBMmY0dRZyaWdSie+heQ4n5amssxFXmVDf0gbSWhUYrIj4nQcSEGHqak2lLb
+Mn5WpfxYgT2XAPPFfVS+kLgNpMnPhKltyDUm1HGFi1xbYOBSADUkWmKtqfCUopRp
+BShghELzL5Gy4pHa04Fh28YnazJMk1qaRbmsCfPm9S0liaKyROn44vjVJsomTn73
+ll+smfBm/tGV39S2XOqp6vPH8ZFJi69cvv/JL+HwtN4Z9SWP3pwumYd+Kh48tvrQ
+H7uPvPzxybqzEwcq7x1K/vw3W9OxpGdRf+LcwN4dD+qH6449b/2yhnz9+6aN+f1b
+/zx3sPsMGvPwBztnDpWueLor9/jCtWJ3gDW09/+6ZWBwW+OrsfMNZ3c8zhW9ndL3
+4umH3y+fmas7vvF557qlQ2O7Gsvnf75sr1j16au2J71DF6+7k9GZ8ov3OtZ+W9Xf
+OXvOg9knfxsJ93w1986J290PJ9Vs/2vn3Wd10RelM0Yu75sydbSi/caBrtez5PTG
+VGX+7eEFHd0LT303/er9to/69lSsH6xZUHbr9spltPd179Sto/8A2WVXaQ==
+=mrzr
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
